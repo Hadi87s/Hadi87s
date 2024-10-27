@@ -1,6 +1,6 @@
 # About Me:
 
-Studying at NNU.<br>Currently Learning Front-End.<br>
+Studying at NNU.
 
 # 🌐 Socials:
 

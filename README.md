@@ -21,7 +21,7 @@ I'm **Hadi Irshaid**, a Computer Engineering student at **An-Najah National Univ
 
 ---
 
-[#My Potfolio](https://hadiirshaid.netlify.app/)
+[**My Potfolio**](https://hadiirshaid.netlify.app/)
 
 ---
 

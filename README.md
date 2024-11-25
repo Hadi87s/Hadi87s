@@ -18,7 +18,6 @@ I'm **Hadi Irshaid**, a Computer Engineering student at **An-Najah National Univ
 [Facebook](https://facebook.com/Hadi.Irshaid87)  
 [Instagram](https://instagram.com/itsnewhadi107)  
 [LinkedIn](https://linkedin.com/in/hadi-irshaid-345386319)
-
 [Gmail](mailto:HadiIrshaid8722@gmail.com)
 
 ---

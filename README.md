@@ -10,6 +10,10 @@ I'm **Hadi Irshaid**, a Computer Engineering student at **An-Najah National Univ
 
 ---
 
+[**My Potfolio**](https://hadiirshaid.netlify.app/)
+
+---
+
 # Technical Skills  
 
 ### Programming Languages  
@@ -33,19 +37,6 @@ I'm **Hadi Irshaid**, a Computer Engineering student at **An-Najah National Univ
 - **Canva**  
 - **GIMP**  
 - **Adobe Lightroom**  
-
----
-
-# Quote for Developers  
-*"Code is like humor. When you have to explain it, it’s bad."*  
-
----
-
-<!-- Created by Hadi -->  
-
-
-# Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 

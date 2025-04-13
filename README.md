@@ -20,28 +20,3 @@ I'm **Hadi Irshaid**, a Computer Engineering student at **An-Najah National Univ
 
 ---
 
-# Technical Skills  
-
-### Programming Languages  
-- **C, C++**  
-- **Java**  
-- **JavaScript**  
-- **Assembly (x86)**  
-- **MIPS**
-
-### Web Development  
-- **HTML5**  
-- **CSS3**
-
-### Tools & Platforms  
-- **Git**  
-- **GitHub**  
-- **PostgreSQL**  
-- **Linux**
-
-### Design Tools  
-- **Canva**  
-- **GIMP**  
-- **Adobe Lightroom**  
-
----
